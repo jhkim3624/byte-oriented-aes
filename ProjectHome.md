@@ -1,0 +1,1 @@
+Implementation of a byte-oriented approach to the Advanced Encryption Standard in standard C code.  By careful tracking of the input and output state array indicies, the `MixColumns`, `SubBytes`, and `ShiftRows` steps are combined into a single round operation.
